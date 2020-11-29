@@ -10,6 +10,7 @@ public class HelloGit {
 		System.out.println("组件添加");
 
 		System.out.println("分支添加");
+		System.out.println("第二次提交之前更新");
 	}
 
 }
